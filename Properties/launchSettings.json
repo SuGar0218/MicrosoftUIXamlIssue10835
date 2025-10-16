@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MicrosoftUIXamlIssue10835 (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "MicrosoftUIXamlIssue10835 (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
